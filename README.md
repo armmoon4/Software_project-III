@@ -1,7 +1,7 @@
 # Software_project-III
 
 
-#Emergency Services >>>
+#Emergency Services >
 
 This web project aims to consolidate all emergency services in Bangladesh, including fire and rescue, police, and hospitals, while providing a user-friendly search option for easy access. It not only holds data on the nearest police stations, fire services, and hospitals based on location but also provides comprehensive information on various other government services. The project strives to enhance emergency response efficiency and promote public safety by centralizing critical service information in one accessible platform.
 
@@ -27,7 +27,7 @@ There are many members are associate with this project. They have helped to deve
 The system directly or indirectly.
 
 
-<h2>Internal stakeholde</>
+Internal stakeholde
 1.	Admin 
 2.	System Administrator 
 3.	Emergency Services Provider 
